@@ -1,3 +1,8 @@
+# Davezu
+
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning and building projects
+
 ## 💻 Technologies:
 
 <div style="display: inline_block; text-align: center;">
@@ -11,22 +16,11 @@
   <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davezu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davezu&theme=dracula&hide_border=true"/>
-</div>
-
-## 🔥 Most Used Languages:
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davezu&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Davezu&show_icons=true&count_private=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Davezu&theme=dark&background=0d1117&border=30363d&stroke=7A7ADB&ring=7A7ADB&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A7ADB&sideLabels=7A7ADB&dates=8b949e" />
 </div>
 
 ---
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Davezu?label=Follow&style=social)](https://github.com/Davezu)
-[![GitHub stars](https://img.shields.io/github/stars/Davezu?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Davezu)
-
-</div>
