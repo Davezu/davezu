@@ -20,7 +20,8 @@
 
 <div align="center">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Davezu&show_icons=true&count_private=true&hide_rank=false&show_icons=true&include_all_commits=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davezu&theme=dark&background=0d1117&border=30363d&stroke=7A7ADB&ring=7A7ADB&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A7ADB&sideLabels=7A7ADB&dates=8b949e" />
+  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davezu&background=00000000&border=7A7ADB&stroke=7A7ADB&ring=7A7ADB&fire=FFA500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7A7ADB&sideLabels=7A7ADB&dates=8b949e" />
 </div>
+
 
 ---
