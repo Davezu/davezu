@@ -11,3 +11,23 @@
   <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davezu-stats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davezu-stats&theme=dracula&hide_border=true"/>
+</div>
+
+## 🔥 Most Used Languages:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davezu&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+</div>
+
+---
+
+<div align="center">
+  
+
+[![GitHub followers](https://img.shields.io/github/followers/Davezu-stats?label=Follow&style=social)](https://github.com/Davezu-stats)
+[![GitHub stars](https://img.shields.io/github/stars/Davezu-stats?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Davezu-stats)
+
+</div>
