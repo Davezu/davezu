@@ -3,7 +3,7 @@
 - 💻 Aspiring Software Engineer
 - 🌱 Currently learning and building projects
 
-## 💻 Technologies:
+## Technologies:
 
 <div style="display: inline_block; text-align: center;">
   <img alt="HTML5" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
