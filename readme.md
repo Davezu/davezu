@@ -2,7 +2,7 @@
 
 - 💻 Aspiring Software Engineer
 - 🌱 Currently learning and building projects
-
+- 🧑🏻‍💻 Student
 ## Technologies:
 
 <div style="display: inline_block; text-align: center;">
